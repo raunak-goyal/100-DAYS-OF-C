@@ -12,6 +12,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/3005-count-elements-with-maximum-frequency) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
