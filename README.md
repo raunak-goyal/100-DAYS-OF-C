@@ -55,12 +55,14 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
