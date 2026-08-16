@@ -80,4 +80,12 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
