@@ -56,6 +56,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
