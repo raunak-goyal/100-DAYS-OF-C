@@ -57,6 +57,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -95,4 +98,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
