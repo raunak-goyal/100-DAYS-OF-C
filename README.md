@@ -59,6 +59,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,4 +104,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
