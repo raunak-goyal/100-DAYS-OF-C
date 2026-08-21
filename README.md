@@ -60,6 +60,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2331-evaluate-boolean-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -105,4 +108,13 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
