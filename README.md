@@ -63,6 +63,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,10 +77,12 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0450-delete-node-in-a-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0450-delete-node-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0938-range-sum-of-bst](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0938-range-sum-of-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
+| [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 ## DP on Trees
 |  |
 | ------- |
