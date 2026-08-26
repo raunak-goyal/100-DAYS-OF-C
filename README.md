@@ -92,6 +92,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0501-find-mode-in-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Linked List
 |  |
 | ------- |
