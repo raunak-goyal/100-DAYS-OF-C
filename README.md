@@ -33,11 +33,13 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0001-two-sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0001-two-sum) |
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
 | [0013-roman-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0013-roman-to-integer) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,16 +98,19 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0543-diameter-of-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Linked List
 |  |
 | ------- |
@@ -142,4 +148,20 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Topological Sort
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Combinatorics
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
