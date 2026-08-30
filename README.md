@@ -67,6 +67,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,12 +82,14 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0100-same-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0100-same-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0104-maximum-depth-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
