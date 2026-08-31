@@ -34,6 +34,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [0136-single-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
+| [0136-single-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0136-single-number) |
 ## Tree
 |  |
 | ------- |
