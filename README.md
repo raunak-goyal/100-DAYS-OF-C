@@ -49,6 +49,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,4 +171,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
