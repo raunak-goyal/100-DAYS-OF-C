@@ -36,6 +36,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [0136-single-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0136-single-number) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Topological Sort
 |  |
 | ------- |
