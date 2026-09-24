@@ -11,6 +11,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0013-roman-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0013-roman-to-integer) |
 | [0001-two-sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0001-two-sum) |
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
+| [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -37,12 +38,14 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0136-single-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0136-single-number) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
 | [0013-roman-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0013-roman-to-integer) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -53,11 +56,13 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0278-first-bad-version) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
 | [0136-single-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -179,4 +184,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
