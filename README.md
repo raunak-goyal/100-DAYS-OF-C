@@ -40,6 +40,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -194,4 +195,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
