@@ -50,6 +50,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0326-power-of-three) |
+| [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0326-power-of-three) |
+| [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
 ## Binary Search Tree
 |  |
 | ------- |
