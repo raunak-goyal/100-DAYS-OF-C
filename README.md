@@ -137,6 +137,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0326-power-of-three](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0326-power-of-three) |
 | [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
+| [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
