@@ -51,6 +51,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0326-power-of-three) |
 | [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0222-count-complete-tree-nodes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0222-count-complete-tree-nodes) |
 | [0136-single-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
+| [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0326-power-of-three) |
 | [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 ## Binary Search Tree
 |  |
 | ------- |
