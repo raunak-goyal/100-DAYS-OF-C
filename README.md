@@ -20,6 +20,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0013-roman-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,4 +210,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0283-move-zeroes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
