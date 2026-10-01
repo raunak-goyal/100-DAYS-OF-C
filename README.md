@@ -15,6 +15,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0278-first-bad-version](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0278-first-bad-version) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0125-valid-palindrome](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
