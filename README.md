@@ -13,6 +13,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0997-find-the-town-judge](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0997-find-the-town-judge) |
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0541-reverse-string-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/3005-count-elements-with-maximum-frequency) |
+| [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0125-valid-palindrome](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0557-reverse-words-in-a-string-iii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
