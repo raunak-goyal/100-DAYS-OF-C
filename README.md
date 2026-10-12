@@ -54,6 +54,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0088-merge-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
