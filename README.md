@@ -56,6 +56,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
+| [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0412-fizz-buzz](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
+| [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,4 +240,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
+| [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
