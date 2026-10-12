@@ -55,6 +55,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0283-move-zeroes](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
+| [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
 ## Math
 |  |
 | ------- |
@@ -236,4 +237,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
+| [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
