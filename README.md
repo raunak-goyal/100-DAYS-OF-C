@@ -57,6 +57,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
 | [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
+| [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0326-power-of-three](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0326-power-of-three) |
 | [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
+| [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
@@ -241,4 +243,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
 | [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
+| [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
