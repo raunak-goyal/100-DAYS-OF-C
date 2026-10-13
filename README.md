@@ -58,6 +58,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
 | [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
+| [1572-matrix-diagonal-sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -244,4 +245,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0766-toeplitz-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0766-toeplitz-matrix) |
 | [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
+| [1572-matrix-diagonal-sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
