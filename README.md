@@ -60,6 +60,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1572-matrix-diagonal-sum) |
 | [0054-spiral-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0059-spiral-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0867-transpose-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0867-transpose-matrix) |
 | [0566-reshape-the-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0566-reshape-the-matrix) |
 | [0054-spiral-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,4 +251,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1572-matrix-diagonal-sum) |
 | [0054-spiral-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
