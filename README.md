@@ -62,6 +62,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0054-spiral-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0498-diagonal-traverse) |
+| [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,4 +257,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0054-spiral-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0498-diagonal-traverse) |
+| [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
