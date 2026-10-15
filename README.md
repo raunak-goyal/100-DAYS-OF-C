@@ -64,6 +64,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0498-diagonal-traverse](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0498-diagonal-traverse) |
 | [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0054-spiral-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0498-diagonal-traverse) |
+| [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,4 +264,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0498-diagonal-traverse](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0498-diagonal-traverse) |
 | [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
