@@ -16,6 +16,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
+| [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0088-merge-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
+| [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
