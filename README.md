@@ -17,6 +17,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0205-isomorphic-strings](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/3005-count-elements-with-maximum-frequency) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
+| [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
+| [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +246,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,4 +276,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
