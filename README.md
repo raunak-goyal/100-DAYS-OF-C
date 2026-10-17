@@ -65,6 +65,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0074-search-a-2d-matrix](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0289-game-of-life) |
+| [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0541-reverse-string-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
+| [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 ## Queue
 |  |
 | ------- |
