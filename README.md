@@ -35,6 +35,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0643-maximum-average-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
