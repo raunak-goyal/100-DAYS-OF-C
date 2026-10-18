@@ -71,6 +71,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 ## Topological Sort
 |  |
 | ------- |
