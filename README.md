@@ -74,6 +74,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0643-maximum-average-subarray-i) |
+| [0152-maximum-product-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0152-maximum-product-subarray) |
 ## Topological Sort
 |  |
 | ------- |
