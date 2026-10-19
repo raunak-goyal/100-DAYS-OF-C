@@ -78,6 +78,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0238-product-of-array-except-self](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1480-running-sum-of-1d-array) |
+| [0724-find-pivot-index](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -296,4 +297,5 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1480-running-sum-of-1d-array) |
+| [0724-find-pivot-index](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
