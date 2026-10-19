@@ -76,6 +76,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0643-maximum-average-subarray-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0643-maximum-average-subarray-i) |
 | [0152-maximum-product-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [0238-product-of-array-except-self](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0238-product-of-array-except-self) |
 ## Math
 |  |
 | ------- |
@@ -289,4 +290,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
