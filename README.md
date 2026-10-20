@@ -80,6 +80,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1480-running-sum-of-1d-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1480-running-sum-of-1d-array) |
 | [0724-find-pivot-index](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0724-find-pivot-index) |
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0240-search-a-2d-matrix-ii) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 ## Topological Sort
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -304,4 +308,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
