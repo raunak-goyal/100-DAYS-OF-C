@@ -82,6 +82,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
+| [0011-container-with-most-water](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0011-container-with-most-water) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1382-balance-a-binary-search-tree) |
+| [0011-container-with-most-water](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0011-container-with-most-water) |
 ## Stack
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
+| [0011-container-with-most-water](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0011-container-with-most-water) |
 ## Queue
 |  |
 | ------- |
