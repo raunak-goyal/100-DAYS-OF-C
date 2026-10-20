@@ -81,6 +81,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0724-find-pivot-index](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0724-find-pivot-index) |
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
