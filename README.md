@@ -84,6 +84,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 | [0011-container-with-most-water](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 | [0011-container-with-most-water](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 ## Queue
 |  |
 | ------- |
