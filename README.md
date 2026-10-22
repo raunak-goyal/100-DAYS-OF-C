@@ -192,6 +192,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0050-powx-n](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 | [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0011-container-with-most-water](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
+| [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
 | ------- |
