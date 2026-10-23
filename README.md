@@ -98,6 +98,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
+| [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
+| [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0231-power-of-two](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0231-power-of-two) |
 | [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
+| [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
