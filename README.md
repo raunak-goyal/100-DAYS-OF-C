@@ -18,6 +18,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0349-intersection-of-two-arrays](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0349-intersection-of-two-arrays) |
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0021-merge-two-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
 ## Queue
 |  |
 | ------- |
