@@ -200,6 +200,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0206-reverse-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
