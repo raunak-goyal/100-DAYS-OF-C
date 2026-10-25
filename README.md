@@ -19,6 +19,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0217-contains-duplicate](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
+| [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
+| [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 ## Queue
 |  |
 | ------- |
@@ -334,4 +337,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
