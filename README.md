@@ -202,6 +202,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
 | [0328-odd-even-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0328-odd-even-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
