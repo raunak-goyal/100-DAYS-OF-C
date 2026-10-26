@@ -205,6 +205,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0237-delete-node-in-a-linked-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
