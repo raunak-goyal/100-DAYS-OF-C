@@ -203,6 +203,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
 | [0328-odd-even-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0328-odd-even-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
