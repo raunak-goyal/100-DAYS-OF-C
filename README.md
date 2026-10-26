@@ -204,6 +204,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0328-odd-even-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0328-odd-even-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0237-delete-node-in-a-linked-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
 | [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Queue
 |  |
 | ------- |
