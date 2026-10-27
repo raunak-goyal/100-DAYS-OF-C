@@ -208,6 +208,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
+| [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
+| [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 ## Queue
 |  |
 | ------- |
