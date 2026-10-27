@@ -210,6 +210,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 | [0061-rotate-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0169-majority-element](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
+| [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0977-squares-of-a-sorted-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0977-squares-of-a-sorted-array) |
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 | [0061-rotate-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 ## Queue
 |  |
 | ------- |
@@ -361,4 +365,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
