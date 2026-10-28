@@ -101,6 +101,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0048-rotate-image](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0061-rotate-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 | [0707-design-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
