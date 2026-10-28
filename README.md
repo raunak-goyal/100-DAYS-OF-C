@@ -211,6 +211,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 | [0061-rotate-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
+| [0707-design-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0707-design-linked-list) |
 ## Monotonic Queue
 |  |
 | ------- |
