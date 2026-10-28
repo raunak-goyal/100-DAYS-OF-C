@@ -180,6 +180,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## DP on Trees
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 | [0707-design-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -373,4 +375,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
