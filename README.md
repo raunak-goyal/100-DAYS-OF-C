@@ -218,6 +218,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0086-partition-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0147-insertion-sort-list) |
+| [0725-split-linked-list-in-parts](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
