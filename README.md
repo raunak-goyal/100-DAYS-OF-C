@@ -221,6 +221,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0725-split-linked-list-in-parts](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0086-partition-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0086-partition-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
