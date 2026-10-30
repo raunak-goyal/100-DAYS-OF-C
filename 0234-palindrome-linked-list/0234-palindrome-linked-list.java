@@ -1,15 +1,23 @@
 
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null)
+            return true;
+
         ListNode slow = head, fast = head;
 
+        // Find the middle.
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        if (fast != null) slow = slow.next;
+        // Skip the middle node for odd-length lists.
+        if (fast != null) {
+            slow = slow.next;
+        }
 
+        // Reverse the second half.
         ListNode prev = null;
         while (slow != null) {
             ListNode next = slow.next;
@@ -18,12 +26,16 @@ class Solution {
             slow = next;
         }
 
-        ListNode left = head, right = prev;
+        // Compare both halves.
+        ListNode first = head;
+        ListNode second = prev;
 
-        while (right != null) {
-            if (left.val != right.val) return false;
-            left = left.next;
-            right = right.next;
+        while (second != null) {
+            if (first.val != second.val)
+                return false;
+
+            first = first.next;
+            second = second.next;
         }
 
         return true;
