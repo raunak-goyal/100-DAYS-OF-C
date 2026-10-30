@@ -220,6 +220,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0147-insertion-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0147-insertion-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
 | [0086-partition-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0086-partition-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
