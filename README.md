@@ -21,6 +21,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0160-intersection-of-two-linked-lists) |
 | [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
 | [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
