@@ -222,6 +222,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0024-swap-nodes-in-pairs](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
 ## Binary Search Tree
 |  |
 | ------- |
