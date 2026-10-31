@@ -223,6 +223,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
+| [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0053-maximum-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0918-maximum-sum-circular-subarray) |
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
+| [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -389,8 +391,17 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0148-sort-list) |
+| [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
