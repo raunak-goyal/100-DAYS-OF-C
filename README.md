@@ -22,6 +22,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0141-linked-list-cycle](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0138-copy-list-with-random-pointer) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0138-copy-list-with-random-pointer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0138-copy-list-with-random-pointer) |
 | [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
