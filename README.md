@@ -103,6 +103,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0189-rotate-array](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0189-rotate-array) |
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
 | [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0138-copy-list-with-random-pointer) |
+| [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0234-palindrome-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
