@@ -23,6 +23,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0142-linked-list-cycle-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0138-copy-list-with-random-pointer) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0015-3sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
+| [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -280,11 +282,13 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
 | [0155-min-stack](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
+| [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
 | ------- |
