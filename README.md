@@ -37,6 +37,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0242-valid-anagram](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0205-isomorphic-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
 | [0155-min-stack](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
