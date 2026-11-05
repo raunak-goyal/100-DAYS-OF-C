@@ -279,6 +279,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
+| [0155-min-stack](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0707-design-linked-list) |
+| [0155-min-stack](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0155-min-stack) |
 ## Monotonic Queue
 |  |
 | ------- |
