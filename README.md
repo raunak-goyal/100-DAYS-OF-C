@@ -287,12 +287,14 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0071-simplify-path](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0071-simplify-path) |
+| [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
 | [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
 ## Union-Find
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0303-range-sum-query-immutable](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0707-design-linked-list) |
 | [0155-min-stack](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -425,4 +428,8 @@ A structured 100-day journey to master C programming from basics to advanced con
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
