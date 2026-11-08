@@ -95,6 +95,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0018-4sum](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0018-4sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1019-next-greater-node-in-linked-list) |
 | [0496-next-greater-element-i](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0496-next-greater-element-i) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0002-add-two-numbers](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0071-simplify-path](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0071-simplify-path) |
 | [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
