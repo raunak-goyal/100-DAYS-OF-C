@@ -39,6 +39,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0205-isomorphic-strings](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0205-isomorphic-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0071-simplify-path](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0203-remove-linked-list-elements](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0203-remove-linked-list-elements) |
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0071-simplify-path](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0071-simplify-path) |
 | [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
