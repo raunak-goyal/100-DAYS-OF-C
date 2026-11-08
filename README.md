@@ -40,6 +40,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0071-simplify-path](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0445-add-two-numbers-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0445-add-two-numbers-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0227-basic-calculator-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0901-online-stock-span](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0901-online-stock-span) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
