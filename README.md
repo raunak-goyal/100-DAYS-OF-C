@@ -41,6 +41,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0071-simplify-path](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0143-reorder-list](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0143-reorder-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A structured 100-day journey to master C programming from basics to advanced con
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/raunak-goyal/100-DAYS-OF-C/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
